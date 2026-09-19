@@ -186,12 +186,6 @@ El proyecto está bajo la licencia **ISC**, según se indica en el archivo `pack
 
 ---
 
-## 🤝 Contribuciones
-
-Si deseas contribuir al proyecto, puedes hacer un **fork** del repositorio, crear una rama con tu mejora y enviar un **pull request**. Para cambios mayores, se recomienda abrir primero un **issue** para discutir la propuesta.
-
----
-
 ## 📌 Notas Adicionales
 
 - El proyecto se encuentra en versión **1.5 beta**.
@@ -199,5 +193,3 @@ Si deseas contribuir al proyecto, puedes hacer un **fork** del repositorio, crea
 - El servidor sirve la vista pública desde `frontend/public` y el panel de administración desde `frontend/admin` mediante `express.static`.
 
 ---
-
-*Documentación generada a partir del análisis del repositorio [EnriqueJeronimo/Menu](https://github.com/EnriqueJeronimo/Menu).*
